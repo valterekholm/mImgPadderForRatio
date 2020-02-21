@@ -1,7 +1,7 @@
 # mImgPadderForRatio
 
 
-App for adding borders to images in same folder, using Maven
+App for adding borders to images in same folder as the runnable program, using Maven
 
 A Java desktop app that adds padding to images to cut their ratio inside a chosen ratio.
 
