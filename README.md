@@ -14,3 +14,5 @@ if the given ratio should be applied in one or two axis.
 Anyway, if you got ways too make the code look better, or increase speed, you can "connect" (or what it's called).
 
 The need for this program came with the use of a webshop that used to crop tall images (visually - not in bytes).
+
+A disfunction 22/4 2020: when running app in Linux (Mint) the program only looks in the User/Home folder instead of the folder of the program.
